@@ -14,17 +14,13 @@ This was a project done for the Ohio State University SAC and MIT Sloan SAC, und
 
 RESULTS /
 
-| : Fruits \|\| Food : |           |                                     |
-| :------------------- | :-------- | :---------------------------------- |
-| Apple                | : Apple : | Apple \                             |
-| Banana               | Banana    | Banana \                            |
-| Orange               | Orange    | Orange                              |
-| : Rowspan is 5 :     |           | : How's it? :                       |
-| ^^ A. Peach          |           | ^^ 1. Fine                          |
-| ^^ B. Orange         |           | ^^ 2. Bad $I = \int \rho R^{2} dV$  |
-| ^^ C. Banana         |           | It's OK! ![example image][my-image] |
+![example image][my-image]
 
-[my-image]: http://www.unexpected-vortices.com/sw/rippledoc/example-image.jpg "An exemplary image"
+[my-image]: assets/images/mitssacRES.png "An exemplary image"
+
+![example image 2][my-image 2]
+
+[my-image 2]: assets/images/mitssacEQ.png "An exemplary image"
 
 ABSTRACT /
 
