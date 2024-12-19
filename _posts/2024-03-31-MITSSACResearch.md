@@ -16,11 +16,11 @@ RESULTS /
 
 ![example image][my-image]
 
-[my-image]: assets/images/mitssacRES.png "An exemplary image"
+[my-image]: https://github.com/andrewkang12345/andrew.github.io/assets/images/mitssacRES.png "An exemplary image"
 
 ![example image 2][my-image 2]
 
-[my-image 2]: assets/images/mitssacEQ.png "An exemplary image"
+[my-image 2]: https://github.com/andrewkang12345/andrew.github.io/assets/images/mitssacEQ.png "An exemplary image"
 
 ABSTRACT /
 
