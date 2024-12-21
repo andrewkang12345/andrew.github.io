@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Research at Harvard
-subtitle: Mixed-Reality for Coach-Athlete Communication
+title: Robotics Senior Design
+subtitle: Programming Rethink Robotics' Baxter Robot as a Cooking Assistant
 categories: docs
 tags:
 ---
@@ -10,15 +10,12 @@ tags:
 
 BACKGROUND /
 
-This was a project done as a research intern at Harvard University's Visual Computing Group, under the advisory of Dr. Hanspeter Pfister. I brought an idea to facilitate communication about tactics between athletes and coaches in a multiplayer mixed-reality environment. I hypothesized that multiple perspectives and telepresence could better convey concepts on a 2D tactical board.
+This was a project done for a senior design course in Robotics.
 
-![](https://youtu.be/O7o4Wzd-7rw)
+![](https://youtu.be/zZRgKAX9xf0)
 
-ABSTRACT /
+Overview /
+Our goal was to create ROS software to demonstrate basic cooking assistance. This proved to be difficult due to hardware malfunctioning and version collisions, but we did make satisfactory progress.
 
-[LINK to my paper.](https://dl.acm.org/doi/10.1145/3696762.3698043)
-
-Soccer, as a dynamic team sport, requires seamless coordination and integration of tactical strategies across all players. Adapting to new tactical systems is a critical but often challenging aspect of soccer at all professional levels. Even the best players can struggle with this process, primarily due to the complexities of conveying and internalizing intricate tactical patterns. Traditional communication methods like whiteboards, on-field instructions, and video analysis often present significant difficulties in perceiving spatial relationships, anticipating team movements, and facilitating live conversation during training sessions. These challenges can lead to inconsistent interpretations of the coach’s tactics among players, regardless of their skill level.
-To bridge the gap between tactical communication and physical execution, we propose a mixed-reality telepresence solution, PanoCoach, designed to support multi-view tactical explanations during practice. Our concept involves a multi-screen setup combining a tablet for coaches to annotate and demonstrate concepts in both 2D and 3D views, alongside VR to immerse athletes in a first-person perspective, allowing them to experience a sense of presence during coaching.
-In our preliminary study, we prototyped the cross-device functionality to implement the key steps of our approach: Step 1, where the coach uses a tablet to provide clear and dynamic tactical instructions, Step 2, where players engage with these instructions through an immersive VR experience, and Step 3, where the coach tracks players’ movements and provides real time feedback. User evaluation with coaches at City Football Group, Harvard Soccer and Rice Soccer suggests this mixed-reality telepresence approach holds promising potential for improving tactical understanding and communication.
-Based on these findings, we outline future directions and discuss the research needed to expand this approach beyond controlled indoor environments, such as locker rooms, leveraging telepresence to enhance tactical comprehension and simulated training.
+Within the team, my primary responsibility centered around the Vision subsystem, an essential component in transforming Baxter into “Chef Baxter.” My goal was to enable Chef Baxter to perceive and understand its environment, identify ingredients, and determine object locations for subsequent manipulation. This encompassed configuring and calibrating an RGB-D camera, integrating object detection and tagging systems, and extracting 6D pose information that could be translated into meaningful robot commands.
+My efforts included initial camera setup, tuning the pipeline for reliable AprilTag detections, experimenting with YOLO-based object recognition models, and eventually incorporating depth information for retrieving precise object coordinates. Over the semester, I iteratively refined the vision workflow—from raw sensor data capture to robust, real-time object detection and tracking—ultimately providing Chef Baxter the visual “eyes” it needed to assist in the culinary tasks of preparing fruit salads.
