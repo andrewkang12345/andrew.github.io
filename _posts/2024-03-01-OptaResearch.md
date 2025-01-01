@@ -15,7 +15,7 @@ This was presented at the Opta Forum (by Stats Perform), under the advisory of D
 RESULTS /
 
 Below is a demo video submitted before the presentation on stage.
-![](https://youtu.be/ji1hTYPNyjM)
+[Link to demo video](https://youtu.be/ji1hTYPNyjM)
 
 ABSTRACT on Conference Website/
 
