@@ -3,6 +3,17 @@ layout: post
 title: Research at Harvard
 subtitle: Mixed-Reality for Coach-Athlete Communication
 categories: docs
+banner:
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: assets/images/harvardBanner.jpg
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 tags:
 ---
 
