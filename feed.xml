@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="/jekyll-theme-yat/" rel="alternate" type="text/html" /><updated>2025-01-02T03:45:23+00:00</updated><id>/jekyll-theme-yat/feed.xml</id><title type="html">Andrew Kang’s Portfolio</title><subtitle>This is my portfolio of my past experiments.</subtitle><author><name>Andrew Kang</name></author><entry><title type="html">Andrew Kang CV</title><link href="/jekyll-theme-yat/docs/2024/12/15/CV.html" rel="alternate" type="text/html" title="Andrew Kang CV" /><published>2024-12-15T00:00:00+00:00</published><updated>2024-12-15T00:00:00+00:00</updated><id>/jekyll-theme-yat/docs/2024/12/15/CV</id><content type="html" xml:base="/jekyll-theme-yat/docs/2024/12/15/CV.html"><![CDATA[<p>This is <a href="https://drive.google.com/file/d/1o13ygW8122oexqP9X8V9-WWxwmlR8GM9/view?usp=sharing">a link to my CV.</a>
+More detail is in my <a href="https://www.linkedin.com/in/andrew-kang-1b4571191/">Linkedin.</a></p>]]></content><author><name>Andrew Kang</name></author><category term="docs" /><summary type="html"><![CDATA[This is a link to my CV. More detail is in my Linkedin.]]></summary></entry><entry><title type="html">Robotics Senior Design</title><link href="/jekyll-theme-yat/docs/2024/12/01/BaxterSeniorDesign.html" rel="alternate" type="text/html" title="Robotics Senior Design" /><published>2024-12-01T00:00:00+00:00</published><updated>2024-12-01T00:00:00+00:00</updated><id>/jekyll-theme-yat/docs/2024/12/01/BaxterSeniorDesign</id><content type="html" xml:base="/jekyll-theme-yat/docs/2024/12/01/BaxterSeniorDesign.html"><![CDATA[<h2 id="chef-baxter">CHEF BAXTER</h2>
+
+<p>BACKGROUND /</p>
+
+<p>This was a project done for a senior design course in Robotics.</p>
+
+<p><img src="https://youtu.be/zZRgKAX9xf0" alt="" /></p>
+
+<p>OVERVIEW /</p>
+
+<p>Our goal was to create ROS software to demonstrate basic cooking assistance. This proved to be difficult due to hardware malfunctioning and version collisions, but we did make satisfactory progress.</p>
+
+<p>Within the team, my primary responsibility centered around the Vision subsystem, an essential component in transforming Baxter into “Chef Baxter.” My goal was to enable Chef Baxter to perceive and understand its environment, identify ingredients, and determine object locations for subsequent manipulation. This encompassed configuring and calibrating an RGB-D camera, integrating object detection and tagging systems, and extracting 6D pose information that could be translated into meaningful robot commands.
+My efforts included initial camera setup, tuning the pipeline for reliable AprilTag detections, experimenting with YOLO-based object recognition models, and eventually incorporating depth information for retrieving precise object coordinates. Over the semester, I iteratively refined the vision workflow—from raw sensor data capture to robust, real-time object detection and tracking—ultimately providing Chef Baxter the visual “eyes” it needed to assist in the culinary tasks of preparing fruit salads.</p>]]></content><author><name>Andrew Kang</name></author><category term="docs" /><summary type="html"><![CDATA[CHEF BAXTER]]></summary></entry><entry><title type="html">Research at Harvard</title><link href="/jekyll-theme-yat/docs/2024/08/31/HarvardResearch.html" rel="alternate" type="text/html" title="Research at Harvard" /><published>2024-08-31T00:00:00+00:00</published><updated>2024-08-31T00:00:00+00:00</updated><id>/jekyll-theme-yat/docs/2024/08/31/HarvardResearch</id><content type="html" xml:base="/jekyll-theme-yat/docs/2024/08/31/HarvardResearch.html"><![CDATA[<h2 id="panocoach">PANOCOACH</h2>
+
+<p>BACKGROUND /</p>
+
+<p>This was a project done as a research intern at Harvard University’s Visual Computing Group, under the advisory of Dr. Hanspeter Pfister. I brought an idea to facilitate communication about tactics between athletes and coaches in a multiplayer mixed-reality environment. I hypothesized that multiple perspectives and telepresence could better convey concepts on a 2D tactical board.</p>
+
+<p><img src="https://youtu.be/O7o4Wzd-7rw" alt="" /></p>
+
+<p>ABSTRACT /</p>
+
+<p><a href="https://dl.acm.org/doi/10.1145/3696762.3698043">LINK to my paper.</a></p>
+
+<p>Soccer, as a dynamic team sport, requires seamless coordination and integration of tactical strategies across all players. Adapting to new tactical systems is a critical but often challenging aspect of soccer at all professional levels. Even the best players can struggle with this process, primarily due to the complexities of conveying and internalizing intricate tactical patterns. Traditional communication methods like whiteboards, on-field instructions, and video analysis often present significant difficulties in perceiving spatial relationships, anticipating team movements, and facilitating live conversation during training sessions. These challenges can lead to inconsistent interpretations of the coach’s tactics among players, regardless of their skill level.
+To bridge the gap between tactical communication and physical execution, we propose a mixed-reality telepresence solution, PanoCoach, designed to support multi-view tactical explanations during practice. Our concept involves a multi-screen setup combining a tablet for coaches to annotate and demonstrate concepts in both 2D and 3D views, alongside VR to immerse athletes in a first-person perspective, allowing them to experience a sense of presence during coaching.
+In our preliminary study, we prototyped the cross-device functionality to implement the key steps of our approach: Step 1, where the coach uses a tablet to provide clear and dynamic tactical instructions, Step 2, where players engage with these instructions through an immersive VR experience, and Step 3, where the coach tracks players’ movements and provides real time feedback. User evaluation with coaches at City Football Group, Harvard Soccer and Rice Soccer suggests this mixed-reality telepresence approach holds promising potential for improving tactical understanding and communication.
+Based on these findings, we outline future directions and discuss the research needed to expand this approach beyond controlled indoor environments, such as locker rooms, leveraging telepresence to enhance tactical comprehension and simulated training.</p>]]></content><author><name>Andrew Kang</name></author><category term="docs" /><summary type="html"><![CDATA[PANOCOACH]]></summary></entry><entry><title type="html">Research for Ohio State &amp;amp; MIT Sloan Conferences</title><link href="/jekyll-theme-yat/docs/2024/03/31/MITSSACResearch.html" rel="alternate" type="text/html" title="Research for Ohio State &amp;amp; MIT Sloan Conferences" /><published>2024-03-31T00:00:00+00:00</published><updated>2024-03-31T00:00:00+00:00</updated><id>/jekyll-theme-yat/docs/2024/03/31/MITSSACResearch</id><content type="html" xml:base="/jekyll-theme-yat/docs/2024/03/31/MITSSACResearch.html"><![CDATA[<h2 id="panocoach">PANOCOACH</h2>
+
+<p>BACKGROUND /</p>
+
+<p>This was a project done for the Ohio State University SAC and MIT Sloan SAC, under the advisory of Dr. Scott Powers. I thought that the concept of pitch control in soccer analytics could be extended to NFL defense with monotonic neural networks. I hypothesized that this could provide useful visualization for coaches as well as new metrics that explain defensive style.</p>
+
+<p>RESULTS /</p>
+
+<p>Below is a demo video of an arbitrary play from the 2022-2023 NFL Season.
+<img src="https://youtu.be/qz1pFA7cPSo" alt="" /></p>
+
+<p>ABSTRACT /</p>
+
+<p><a href="https://buckeyemailosu-my.sharepoint.com/personal/ruddy_19_osu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fruddy%5F19%5Fosu%5Fedu%2FDocuments%2F2024%20SAA%20Conference%20Program%20%283%29%2Epdf&amp;parent=%2Fpersonal%2Fruddy%5F19%5Fosu%5Fedu%2FDocuments&amp;ga=1">LINK to my conference.</a></p>
+
+<p>In soccer, pitch control [6, 2] measures each player’s potential influence of the pitch in terms of ball possession. Similar attempts exist around defense in football analytics, such as [1, 4]. Like Chang, et al. [1], our tackle influence quantifies each defender’s space occupation, in which a potential runner would likely be tackled by that defender within a given amount of time. Unlike this work, we seek to find non-Gaussian space contours directly from data of tackle success and failure, using temporal tracking data made public for the NFL Big Data Bowl 2024 [3]. This is calculated using a monotonic neural network [5] that considers features such as relative velocity, acceleration, and position of the defender with respect to the runner. Its monotonicity constraint allows us to quickly converge on tackle probability predictions by exploiting our assumption of each feature’s relationship to tackle success. Furthermore, this framework could be used improve the evaluation of runners and runs, using the average change in tackle influence per frame. This method requires less data than current methods to comprehensively assess how effectively runners exploit defenses compared to their peers. Overall, our approach offers a new way to visualize defensive strategies and evaluate runners’ effectiveness in the NFL.</p>]]></content><author><name>Andrew Kang</name></author><category term="docs" /><summary type="html"><![CDATA[PANOCOACH]]></summary></entry><entry><title type="html">Research for the Opta Forum</title><link href="/jekyll-theme-yat/docs/2024/03/01/OptaResearch.html" rel="alternate" type="text/html" title="Research for the Opta Forum" /><published>2024-03-01T00:00:00+00:00</published><updated>2024-03-01T00:00:00+00:00</updated><id>/jekyll-theme-yat/docs/2024/03/01/OptaResearch</id><content type="html" xml:base="/jekyll-theme-yat/docs/2024/03/01/OptaResearch.html"><![CDATA[<h2 id="opta-forum-research">Opta Forum Research</h2>
+
+<p>BACKGROUND /</p>
+
+<p>This was presented at the Opta Forum (by Stats Perform), under the advisory of Dr. Scott Powers. It was an extension of my final project for his course, on clustering player styles in soccer, which caught his attention. We brought in recursive clustering and cluster-specific evaluation afterward. This was also presented again at Zelus Analytics.</p>
+
+<p>RESULTS /</p>
+
+<p>Below is a demo video submitted before the presentation on stage.
+<img src="https://youtu.be/ji1hTYPNyjM" alt="" /></p>
+
+<p>ABSTRACT on Conference Website/</p>
+
+<p><a href="https://www.statsperform.com/resource/pro-research-presentations-announced-for-2024-opta-forum/">LINK to conference.</a></p>
+
+<p>Player role clustering is a well-known problem in sports analytics, often hindered by a common flaw in many clustering methodologies: the equal weighting of all features, regardless of their relevance to the specific analysis objective.</p>
+
+<p>To identify players from different teams who are stylistically similar on the field to enhance recruitment workflows, Andrew, Travis and Scott’s poster will apply Opta Vision data to present a two-step recursive K-means clustering algorithm. This algorithm first clusters role styles based on a player’s on- and off-ball tendencies and then creates sub-clusters based on the specific requirements of a recruitment analyst, such as applying passing-related features when looking to identify playmakers.</p>
+
+<p>To compare the skill of players in each cluster and assess their contribution to wins, Andrew, Travis and Scott will adapt the Box Plus-Minus (BPM) method used in basketball analytics. This involves using the Regularized Adjusted Plus-Minus (RAPM) to estimate each player’s contribution to their team’s expected goal (xG) differential. By doing so, the analysis will highlight the numeric importance of each skill that different player clusters must excel in, for their team’s success.</p>
+
+<p>Andrew is an undergraduate studying Computer Science at Rice University in Houston, Texas, where he also acts as a data analyst for Rice Athletics’ women’s soccer team, whose backroom team includes Travis as an Assistant Coach. They compete in NCAA Division I. Scott joined Rice University’s Department of Sport Management as an Assistant Professor in Sport Analytics in 2023.</p>]]></content><author><name>Andrew Kang</name></author><category term="docs" /><summary type="html"><![CDATA[Opta Forum Research]]></summary></entry></feed>
